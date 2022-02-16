@@ -7,5 +7,6 @@ import (
 
 func main() {
 	fmt.Println("started")
-	arch.
+	run.test()
+
 }
